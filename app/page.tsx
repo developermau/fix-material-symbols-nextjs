@@ -5,7 +5,7 @@ import { SectionRemixIcons } from "./ui/sections/section-remix-icons";
 export default function Home() {
   return (
     <>
-      <h1 className="text-xl">
+      <h1 className="text-2xl text-blue-500">
         Next.js Integration with Font Icons (Material Symbols, and Remix Icons)
       </h1>
       <SectionMaterialSymbols />
