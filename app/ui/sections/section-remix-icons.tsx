@@ -10,12 +10,12 @@ export function SectionRemixIcons() {
         <i className="ri-mail-fill"></i>
       </div>
       <div className="flex gap-2">
-        <span className="font-bold">Star:</span>
-        <span className="material-symbols-outlined">star</span>
+        <span className="font-bold">government-fill:</span>
+        <i className="ri-government-fill"></i>
       </div>
       <div className="flex gap-2">
-        <span className="font-bold">Stacks:</span>
-        <span className="material-symbols-outlined text-red-500">stacks</span>
+        <span className="font-bold">chat-1-fill:</span>
+        <i className="ri-chat-1-fill"></i>
       </div>
     </section>
   );
